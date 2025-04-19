@@ -1,0 +1,120 @@
+{
+    "button_configs": {
+        "main": {
+            "1": {
+                "combo": "windows+r",
+                "icon_path": null
+            },
+            "2": {
+                "combo": "shift+alt",
+                "icon_path": null
+            },
+            "3": {
+                "combo": null,
+                "icon_path": null
+            },
+            "4": {
+                "combo": null,
+                "icon_path": null
+            },
+            "5": {
+                "combo": null,
+                "icon_path": null
+            },
+            "6": {
+                "combo": null,
+                "icon_path": null
+            },
+            "7": {
+                "combo": null,
+                "icon_path": null
+            },
+            "8": {
+                "combo": null,
+                "icon_path": null
+            },
+            "9": {
+                "combo": null,
+                "icon_path": null
+            }
+        },
+        "game": {
+            "1": {
+                "combo": "ctrl+shift+f3",
+                "icon_path": null
+            },
+            "2": {
+                "combo": "ctrl+shift+f4",
+                "icon_path": null
+            },
+            "3": {
+                "combo": "ctrl+shift+f5",
+                "icon_path": null
+            },
+            "4": {
+                "combo": "ctrl+shift+f10",
+                "icon_path": null
+            },
+            "5": {
+                "combo": "ctrl+shift+f11",
+                "icon_path": null
+            },
+            "6": {
+                "combo": "f8",
+                "icon_path": null
+            },
+            "7": {
+                "combo": null,
+                "icon_path": null
+            },
+            "8": {
+                "combo": null,
+                "icon_path": null
+            },
+            "9": {
+                "combo": null,
+                "icon_path": null
+            }
+        },
+        "chill": {
+            "1": {
+                "combo": null,
+                "icon_path": null
+            },
+            "2": {
+                "combo": null,
+                "icon_path": null
+            },
+            "3": {
+                "combo": null,
+                "icon_path": null
+            },
+            "4": {
+                "combo": null,
+                "icon_path": null
+            },
+            "5": {
+                "combo": "alt+tab",
+                "icon_path": null
+            },
+            "6": {
+                "combo": null,
+                "icon_path": null
+            },
+            "7": {
+                "combo": null,
+                "icon_path": null
+            },
+            "8": {
+                "combo": null,
+                "icon_path": null
+            },
+            "9": {
+                "combo": null,
+                "icon_path": null
+            }
+        }
+    },
+    "last_com_port": null,
+    "minimize_on_startup": false
+}
