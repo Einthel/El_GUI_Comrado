@@ -1,21 +1,53 @@
-# Build artifacts
-dist/
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
 build/
+dist/
+develop-eggs/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
 *.spec
 
-# Ignore pictures folder
-pic/
+# Installer logs
+pyczar.log
 
-# Python cache
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.hypothesis/
+.pytest_cache/
 
-# Virtual environment
+# Environments
+.env
+.venv
+env/
 venv/
-*.venv/
+ENV/
 
-# IDE files (optional, add if needed)
-.vscode/
+# IDE specific files
 .idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Specific project files
+pic/
+packPython.txt
+config.json
+config_manager.py
