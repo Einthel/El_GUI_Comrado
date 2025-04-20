@@ -1,4 +1,4 @@
-# Stream Deck Companion (El GUI Comrado)
+# Stream Deck Companion (EL GUI Comrado)
 
 Приложение-компаньен для настройки макро-клавиатуры (Stream Deck) по COM-порту.
 
